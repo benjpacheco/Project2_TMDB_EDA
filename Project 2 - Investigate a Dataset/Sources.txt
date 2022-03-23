@@ -1,0 +1,5 @@
+Sources used for the project:
+
+https://knowledge.udacity.com/questions/492249
+
+https://knowledge.udacity.com/questions/629315
