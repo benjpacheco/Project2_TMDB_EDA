@@ -1,4 +1,4 @@
-<h1 align="center">Project II: Investigate a Dataset</h1>
+<h1 align="center">TMDB Exporatory Data Analysis</h1>
 
 ### Table of Contents
 
